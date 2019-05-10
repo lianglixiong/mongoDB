@@ -76,3 +76,7 @@ db.emp.remove( );
 --headerline：指明不导入第一行，csv格式的文件第一行为列名。
 
 -file：指明要导入的文件路径。
+
+注意：
+
+导入数据和开启MongoDB的窗口要分开
