@@ -68,3 +68,11 @@ db.emp.remove( );
 导入CSV格式的数据：
 
 ![null](https://img-blog.csdn.net/20140524102020546?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXl5d3ly/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+说明：
+
+-type：指明要导入的文件格式。
+
+--headerline：指明不导入第一行，csv格式的文件第一行为列名。
+
+-file：指明要导入的文件路径。
