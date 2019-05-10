@@ -64,3 +64,7 @@ db.emp.remove( );
 导入JSON格式的数据
 
 ![1557457907](https://github.com/lianglixiong/image-github/blob/master/mpvue/1557457907.png) 
+
+导入CSV格式的数据：
+
+![null](https://img-blog.csdn.net/20140524102020546?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXl5d3ly/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
