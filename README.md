@@ -56,3 +56,10 @@ options:
 -f：指明导入的列
 
 #### 3、示例
+首先删除emp中的数据。
+```
+db.emp.remove( );
+```
+
+导入JSON格式的数据
+![1557457907](https://github.com/lianglixiong/image-github/blob/master/mpvue/1557457907.png) 
