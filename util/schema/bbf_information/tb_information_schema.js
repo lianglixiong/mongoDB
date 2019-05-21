@@ -8,4 +8,4 @@ var UserSchema = new Schema({
     RECORDS: Schema.Types.Mixed,
 });
 
-module.exports = mongoose.model('TbInformation',UserSchema);
+module.exports = mongoose.model('TbInformation',UserSchema,'tb_information');
