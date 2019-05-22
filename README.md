@@ -84,7 +84,7 @@ db.emp.remove( );
 
 在window中批量导入语句（在E:\node\mongodb\bin路劲下运行）
 ```
-for /r E:\node\bbf_information\ecommerce_support\csv %i in (*.csv) do "mongoimport.exe" --db ecommerce_support --collection collectionName --type csv --headerline --ignoreBlanks --file "%i"
+for /r E:\node\bbf_information\ecommerce_support\csv %i in (*.csv) do "mongoimport.exe" --db ecommerce_support --type csv --headerline --ignoreBlanks --file "%i"
 ```
 
 ![null](https://github.com/lianglixiong/image-github/blob/master/mongodb/1558505190(1).png)
